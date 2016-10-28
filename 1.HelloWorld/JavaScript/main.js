@@ -1,1 +1,2 @@
-console.log("Hello World");
+var statement = "Hello World";
+console.log(statement);
