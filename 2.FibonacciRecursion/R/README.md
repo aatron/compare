@@ -1,0 +1,2 @@
+Run:
+`rscript main.r`"

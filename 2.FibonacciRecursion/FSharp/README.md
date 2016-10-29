@@ -1,0 +1,2 @@
+Run:
+`fsi Program.fsx`
